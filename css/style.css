@@ -25,7 +25,7 @@ header {
 .menu li{
     display: inline-block;
     margin-left: 15px;
-    margin-top: 7px;
+    margin-top: 23px;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -62,7 +62,7 @@ header {
 
 .quote {
     color: rgba(255, 255, 255, 0.781);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Staatliches', cursive;
     font-style: italic;
     font-size: 23px;
     display: flex;
@@ -74,7 +74,38 @@ header {
 .is {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 21px;
+    font-size: 20px;
     text-align: center;
     margin-top: 50px;
+}
+
+span {
+    color: rgb(234, 255, 46); 
+    font-family: 'Staatliches', cursive;
+    font-size: 22px;
+}
+
+.is h1 {
+    color: rgb(234, 255, 46);
+    font-size: 38px;
+    font-family: 'Staatliches', cursive;
+    margin-bottom: 25px;
+}
+
+
+section {
+    border: 1px rgb(234, 255, 46) solid;
+    border-radius: 16px;
+    padding: 25px;
+}
+
+.greenwich-image {
+    overflow: hidden;
+    color: rgba(255, 255, 255, 0.781);
+    font-style: italic;
+    font-size: 16px;
+}
+
+.greenwich-image img {
+    width: 650px;
 }
