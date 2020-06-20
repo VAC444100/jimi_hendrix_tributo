@@ -110,6 +110,14 @@ section {
     width: 650px;
 }
 
-.army-image img{
+.army-image img {
     width: 320px;
+}
+
+.album-image img {
+    width: 400px;
+}
+
+.woodstock-image img {
+    width: 650px;
 }
