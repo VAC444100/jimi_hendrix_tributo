@@ -99,7 +99,7 @@ section {
     padding: 25px;
 }
 
-.greenwich-image {
+.image {
     overflow: hidden;
     color: rgba(255, 255, 255, 0.781);
     font-style: italic;
@@ -108,4 +108,8 @@ section {
 
 .greenwich-image img {
     width: 650px;
+}
+
+.army-image img{
+    width: 320px;
 }
